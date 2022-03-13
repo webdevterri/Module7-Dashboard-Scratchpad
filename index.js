@@ -14,7 +14,7 @@ fetch("https://apis.scrimba.com/unsplash/photos/random?orientation=landscape&que
   })
 
 // Crypto Info
-fetch("https://api.coingecko.com/api/v3/coins/dogecoin")
+fetch("https://api.coingecko.com/api/v3/coins/ethereum")
     .then(res => {
         if (!res.ok) {
             throw Error("Something went wrong")
