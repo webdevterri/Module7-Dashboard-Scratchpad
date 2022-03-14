@@ -1,6 +1,7 @@
 # To DO List & Notes
 
 - [ ] Change the text shadow (a lot of images are light so it needs to be a little darker)
+- [ ] Add link to Unsplash author's profile
 - [ ] Can change the current time to short to get rid of the seconds, if you want
 - [ ] Test in regular browser. If bg image is taking to long to load, switch from raw size to large or maybe regular.
 - [ ] Write a Readme.md file to talk about the original project and what I added to customize the dashboard
